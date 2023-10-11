@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    width: 90vw;
+    
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.scorpion {
+    font-family:monospace;
+    color: red;
+    text-decoration: overline;
+    font-size: 30px;
+    background-color: black;
+    ;
+}
+
+.picture {
+    width: 250px;
+    height: 250px;
+    border: 30px solid #000000;
+    border-radius: 75%;
+}
+
+.mosquito {
+    background-color: skyblue;
+    font-size: 30px;
+
+}
+
+.snake {
+    background-color: yellowgreen;
+    font-size: 30px;
+}
+
+.scary {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
